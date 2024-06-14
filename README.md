@@ -1,7 +1,6 @@
 ### NTUWhitefox's personal page ###
 
 - [Introduction](https://www.facebook.com/profile.php?id=61550214077630)
-- 
 <!-- .slide -->
 
 - Empty
