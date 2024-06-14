@@ -1,25 +1,16 @@
-title: wu-kan # 站点标题
+title: Whitefox の personal page # 站点标题
 description: | # 头像背后的信息（html格式），<br/>代表换行
-  <a href="mailto:site@wu-kan.cn">
-    <i class="fa-solid fa-envelope"></i>
-  </a>
-  <a href="https://github.com/wu-kan">
+  <a href="https://github.com/NTUWhitefox">
     <i class="fa-brands fa-github"></i>
   </a>
-  <a href="https://scholar.google.com/citations?user=aU9P37UAAAAJ">
-    <i class="fa-brands fa-google-scholar"></i>
+  <a href="https://www.facebook.com/profile.php?id=61550214077630">
+    <i class="fa-brands fa-facebook"></i>
   </a>
-  <a href="https://orcid.org/0009-0008-5828-847X">
-    <i class="fa-brands fa-orcid"></i>
+  <a href="https://www.facebook.com/profile.php?id=61550214077630">
+    <i class="fa-brands fa-facebook"></i>
   </a>
-  <a href="https://vjudge.net/user/WuK">
-    <i class="fa-solid fa-smile"></i>
-  </a>
-  <a href="https://space.bilibili.com/166390020">
-    <i class="fa-brands fa-bilibili"></i>
-  </a>
-  <a href="https://www.zhihu.com/people/wukan0621">
-    <i class="fa-brands fa-zhihu"></i>
+  <a href=sunyuchen931203@gmail.com>
+    <i class="fa-regular fa-envelope"></i>
   </a>
   <br/>
   本人從未接觸過電刃波動拳，你知道的，我一直是殺意波動的修行者，
@@ -49,22 +40,22 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             theme-base: theme-base-0d # 可选的主题色包括08~0f，见 <https://github.com/poole/lanyon>
             layout-reverse: true # 开启后sidebar在右边，反之左边
             sidebar-overlay: true # 开启后正文不随sidebar移动而移动
-          html_lang: zh- # <https://www.w3school.com.cn/tags/html_ref_language_codes.asp>
+          html_lang: zh # <https://www.w3school.com.cn/tags/html_ref_language_codes.asp>
           sidebar: # 此配置项下是一些关于侧边栏的配置
             disable: false # 是否不显示sidebar
             avatar: # 侧边栏显示的头像
               enable: true
               img: https://pbs.twimg.com/media/GPszwTHaMAAbzi4?format=jpg&name=small # 头像的地址
             nav: # 导航部分的内容，你也可以自己增加文字、图标（来自fontawesome）和对应的链接
-              - title: '<i class="fa-solid fa-home fa-fw"></i> 首页'
+              - title: '<i class="fa-solid fa-home fa-fw"></i> 首頁'
                 href: /
               - title: '<i class="fa-solid fa-comment fa-fw"></i> 留言'
                 href: /comments/
-              - title: '<i class="fa-solid fa-archive fa-fw"></i> 归档'
+              - title: '<i class="fa-solid fa-archive fa-fw"></i> 歸檔'
                 href: /archive/
-              - title: '<i class="fa-solid fa-tags fa-fw"></i> 标签'
+              - title: '<i class="fa-solid fa-tags fa-fw"></i> 標籤'
                 href: /tags/
-              - title: '<i class="fa-solid fa-coffee fa-fw"></i> 打赏'
+              - title: '<i class="fa-solid fa-coffee fa-fw"></i> 打賞'
                 href: /merger/
             simple_jekyll_search: # 侧边栏的全站搜索
               enable: true
@@ -87,7 +78,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 </style>
                 <input
                   id="sidebar-search-input"
-                  placeholder="搜索博文"
+                  placeholder="Search"
                 />
                 <ol
                   id="sidebar-search-results-container"
@@ -247,7 +238,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             - | # 网站小图标，可换成你自己的图片，改href中的部分即可
               <link
                 rel="apple-touch-icon-precomposed"
-                href="https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=320"
+                href="https://scontent.ftpe6-1.fna.fbcdn.net/v/t39.30808-6/369969321_122118812894007135_9154085188396752727_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=y40T0zwzcwUQ7kNvgFaUDow&_nc_ht=scontent.ftpe6-1.fna&oh=00_AYABvNAbX-i67LCWSjh9hVuUB7_bU5hH4fs03vbT0d2fRA&oe=667195F8"
               />
               <link
                 rel="shortcut
