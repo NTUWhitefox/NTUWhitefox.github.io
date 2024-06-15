@@ -6,9 +6,6 @@ description: | # 头像背后的信息（html格式），<br/>代表换行
   <a href="https://www.facebook.com/profile.php?id=61550214077630">
     <i class="fa-brands fa-facebook"></i>
   </a>
-  <a href="https://www.facebook.com/profile.php?id=61550214077630">
-    <i class="fa-brands fa-facebook"></i>
-  </a>
   <a href=sunyuchen931203@gmail.com>
     <i class="fa-regular fa-envelope"></i>
   </a>
@@ -55,8 +52,6 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 href: /archive/
               - title: '<i class="fa-solid fa-tags fa-fw"></i> 標籤'
                 href: /tags/
-              - title: '<i class="fa-solid fa-coffee fa-fw"></i> 打賞'
-                href: /merger/
             simple_jekyll_search: # 侧边栏的全站搜索
               enable: true
               full_text_search: false # 可能导致缓慢的搜索和加载
@@ -243,7 +238,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
               <link
                 rel="shortcut
                 icon"
-                href="https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=32"
+                href="https://scontent.ftpe6-1.fna.fbcdn.net/v/t39.30808-6/369969321_122118812894007135_9154085188396752727_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=y40T0zwzcwUQ7kNvgFaUDow&_nc_ht=scontent.ftpe6-1.fna&oh=00_AYABvNAbX-i67LCWSjh9hVuUB7_bU5hH4fs03vbT0d2fRA&oe=667195F8"
               />
             - | # 来自lanyon的页面样式，不要改
               <link
@@ -475,16 +470,16 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 />
                 <script>
                 function initSakanaWidget() {
-                  const mizuno = SakanaWidget.getCharacter('takina');
-                  mizuno.image = `https://mizuno-ai.wu-kan.cn/pixiv/75805052_p0.webp`;
-                  SakanaWidget.registerCharacter('mizuno', mizuno);
+                  const joucho = SakanaWidget.getCharacter('takina');
+                  joucho.image = `https://pbs.twimg.com/media/GN9Wz6cbwAAoGPN?format=jpg&name=small`;
+                  SakanaWidget.registerCharacter('joucho', joucho);
                   let sakana = document.createElement("div");
                   sakana.style.bottom = "0";
                   sakana.style.right = "0";
                   sakana.style.zIndex = "1";
                   sakana.style.position = "fixed";
                   document.body.insertAdjacentElement("beforeend", sakana);
-                  new SakanaWidget({ character: 'mizuno' }).mount(sakana);
+                  new SakanaWidget({ character: 'joucho' }).mount(sakana);
                 }
                 </script>
                 <script
