@@ -14,6 +14,7 @@ Now I wonder what to do in the rest of the month. I really want to make my own g
 By the way, my spring youtube recap is out, you guys should check it out! 
 ### VWP最高 ###
 ![image](https://raw.githubusercontent.com/NTUWhitefox/NTUWhitefox.github.io/gh-pages/_posts/img/Screenshot_20240616_121017_YouTube_Music.jpg)
+![image](https://img.moegirl.org.cn/common/thumb/9/91/KAMITSUBAKI_STUDIO_logo_new.jpg/280px-KAMITSUBAKI_STUDIO_logo_new.jpg)
 
 And here is the link:
 https://www.youtube.com/watch?v=uc7ums5a-qM&list=LRSRpnLXpoRYYUpDS0XBffrdxjtRjPZE7H7tT&index=10
